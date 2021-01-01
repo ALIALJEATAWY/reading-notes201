@@ -5,8 +5,9 @@
 
 ### This page will contain the links of the reading that I will accomplish.
 
-
-[class-01] | (https://alialjeatawy.github.io/reading-notes201/class-01)
+object|link
+------|------
+class01|[link](https://alialjeatawy.github.io/reading-notes201/class-01)
 
 
 
@@ -14,5 +15,5 @@
 
 #### Contact Information:
 
-* *[Email](des.alialjeatawy@gmail.com)*
+* *Email:(des.alialjeatawy@gmail.com)*
 * *[linkedin](https://www.linkedin.com/in/ali-mohammad1994/)*
