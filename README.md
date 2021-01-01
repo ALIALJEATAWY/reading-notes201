@@ -6,7 +6,7 @@
 ### This page will contain the links of the reading that I will accomplish.
 
 
-[class-01]|(https://www.linkedin.com/in/ali-mohammad1994/)
+[class-01] | (https://alialjeatawy.github.io/reading-notes201/class-01)
 
 
 
