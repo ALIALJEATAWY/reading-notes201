@@ -49,12 +49,12 @@ The <address> element has quite a specific use: to contain contact details for t
 
 * *Changes to Content:*
 - The < ins > element can be used to show content that has been inserted into a document, while the < del > element can show text that has been deleted from it.
-- The < s  element indicates something that is no longer accurate or relevant (but that should not be deleted).
+- The element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 
 ### Adding HTML5 Audio to Your Pages
 
-***HTML5 introduced the < audio > element to include audio files in your pages. As with HTML5 video, browsers expect different formats for the audio. The < audio > element has a number of attributes which allow you to control audio playback: src This attribute specifies the path to the audio file.***
+HTML5 introduced the < audio > element to include audio files in your pages. As with HTML5 video, browsers expect different formats for the audio. The < audio > element has a number of attributes which allow you to control audio playback: src This attribute specifies the path to the audio file.
 
 ***EXAMPLE:***< audio src="audio/test-audio.ogg" controls autoplay >
 
