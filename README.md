@@ -10,7 +10,7 @@ object|link
 class01|[link](https://alialjeatawy.github.io/reading-notes201/class-01)
 class02|[link](https://alialjeatawy.github.io/reading-notes201/class-02)
 class03|[link](https://alialjeatawy.github.io/reading-notes201/class-03)
-class02read|[link](https://alialjeatawy.github.io/reading-notes201/class02read)
+
 
 
 
