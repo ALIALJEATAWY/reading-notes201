@@ -16,6 +16,7 @@ class06|[link](https://alialjeatawy.github.io/reading-notes201/class-06)
 class07|[link](https://alialjeatawy.github.io/reading-notes201/class-07)
 class08|[link](https://alialjeatawy.github.io/reading-notes201/class-08)
 class09|[link](https://alialjeatawy.github.io/reading-notes201/class-09)
+class10|[link](https://alialjeatawy.github.io/reading-notes201/class-10)
 
 
 
