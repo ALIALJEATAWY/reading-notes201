@@ -53,6 +53,6 @@ A standard CSS color value indicating the color of the shadow effect; by default
 
 * The shadowBlur property indicates the size of the blurring effect; this value doesn't correspond to a number of pixels and is not affected by the current transformation matrix. The default value is 0.
 
-* The shadowColor property is a standard CSS color value indicating the color of the shadow effect; by default, it is fully-transparent black.
+* The shadowColor property is a standard CSS color value indicating the color o the shadow effect; by default, it is fully-transparent black.
 
 
