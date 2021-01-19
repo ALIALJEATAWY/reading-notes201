@@ -15,7 +15,7 @@
 *After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams. But Rozovsky, now a lead researcher, needed to figure out which norms mattered most. Google’s research had identified dozens of behaviors that seemed important, except that sometimes the norms of one effective team contrasted sharply with those of another equally successful group.*
 
 
-* For Project Aristotle, research on psychological safety pointed to particular norms that are vital to success.
+* For Project Aristotle, research on pychological safety pointed to particular norms that are vital to success.
 
 
 ‘‘I think one of the things most people don’t know about me,’’ he told the group, ‘‘is that I have Stage 4 cancer.’’ In 2001, he said, a doctor discovered a tumor in his kidney. By the time the cancer was detected, it had spread to his spine.
