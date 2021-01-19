@@ -48,38 +48,37 @@ On occasion three-dimensional transforms will be applied on an element that is n
 
 * Here are 8 really simple effects that will add life to your UI and smiles to your users’ faces:
 
-1. Fade in
+* Fade in
 
 Having things fade in is a fairly common request from clients. It’s a great way to emphasize functionality or draw attention to a call to action.
 
 
-2. Change color
+* Change color
 
 Animating a change of color used to be unbelievably complex, with all kinds of math involved in calculating separate RGB values and then recombining them.
 
-3. Grow & Shrink
+* Grow & Shrink
 
 To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.
 
-4. Rotate elements
+* Rotate elements
 
 CSS transforms have a number of different uses, and one of the best is transforming the rotation of an element.
 
-
-5. Square to circle
+* Square to circle
 
 A really popular effect at the moment is transitioning a square element into a round one, and vice versa. 
 
-6. 3D shadow
+* 3D shadow
 
 3D shadows were frowned upon for a year or so, because they weren’t seen as compatible with flat design.
 
 
-7. Swing
+* Swing
 
 Not all elements use the transition property. We can als create highly complex animations using @keyframes, animation and animation-iteration.
 
 
-8. Inset border
+* Inset border
 
 One of the hottest button styles right now is the ghost button; a button with no background and a heavy border.
