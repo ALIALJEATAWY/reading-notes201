@@ -48,37 +48,37 @@ On occasion three-dimensional transforms will be applied on an element that is n
 
 Here are 8 really simple effects that will add life to your UI and smiles to your users’ faces:
 
-Fade in
+- **Fade in**
 
-Having things fade in is a fairly common request from clients. It’s a great way to emphasize functionality or draw attention to a call to action.
-
-
-Change color
-
-Animating a change of color used to be unbelievably complex, with all kinds of math involved in calculating separate RGB values and then recombining them.
-
-Grow & Shrink
-
-To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.
-
-Rotate elements
-
-CSS transforms have a number of different uses, and one of the best is transforming the rotation of an element.
-
-Square to circle
-
-A really popular effect at the moment is transitioning a square element into a round one, and vice versa. 
-
-3D shadow
-
-3D shadows were frowned upon for a year or so, because they weren’t seen as compatible with flat design.
+*Having things fade in is a fairly common request from clients. It’s a great way to emphasize functionality or draw attention to a call to action.*
 
 
-Swing
+- **Change color**
 
-Not all elements use the transition property. We can als create highly complex animations using @keyframes, animation and animation-iteration.
+*Animating a change of color used to be unbelievably complex, with all kinds of math involved in calculating separate RGB values and then recombining them.*
+
+- **Grow & Shrink**
+
+*To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.*
+
+- **Rotate elements**
+
+*CSS transforms have a number of different uses, and one of the best is transforming the rotation of an element.*
+
+- **Square to circle**
+
+*A really popular effect at the moment is transitioning a square element into a round one, and vice versa.*
+
+- **3D shadow**
+
+*3D shadows were frowned upon for a year or so, because they weren’t seen as compatible with flat design.*
 
 
-Inset border
+- **wing**
 
-One of the hottest button styles right now is the ghost button; a button with no background and  heavy border.
+*Not all elements use the transition property. We can als create highly complex animations using @keyframes, animation and animation-iteration.*
+
+
+- **Inset border**
+
+*One of the hottest button styles right now is the ghost button; a button with no background and  heavy border.*
