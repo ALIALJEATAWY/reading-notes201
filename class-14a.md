@@ -81,4 +81,4 @@ Not all elements use the transition property. We can als create highly complex a
 
 * Inset border
 
-One of the hottest button styles right now is the ghost button; a button with no background and a heavy border.
+One of the hottest button styles right now is the ghost button; a button with no background and  heavy border.
