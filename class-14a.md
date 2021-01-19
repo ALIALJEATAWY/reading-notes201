@@ -77,7 +77,7 @@ A really popular effect at the moment is transitioning a square element into a r
 
 7. Swing
 
-Not all elements use the transition property. We can also create highly complex animations using @keyframes, animation and animation-iteration.
+Not all elements use the transition property. We can als create highly complex animations using @keyframes, animation and animation-iteration.
 
 
 8. Inset border
